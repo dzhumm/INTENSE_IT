@@ -1,0 +1,454 @@
+/* khhgkjhgkjhgkjhg */
+
+
+header {
+    display: inline-block;
+    height: 250px;
+    font-family: Montserrat;
+}
+.header__link {
+    display: inline-block;
+    margin-top: 50px;
+    text-decoration:none;
+    color: rgb(240, 236, 236);
+    padding-left: 300px;
+    font-weight: 100;
+
+
+}
+.header__link1 {
+    display: inline-block;
+    text-decoration:none;
+    color: rgb(243, 239, 239);
+    padding-left: 100px;
+    font-weight: 100;
+}
+.header__link2 {
+    display: inline-block;
+    text-decoration:none;
+    color: rgb(240, 235, 235);
+    padding-left: 100px;
+    font-weight: 100;
+
+}
+.header__link3 {
+    display:inline-block;
+    text-decoration:none;
+    color: rgb(241, 240, 240);
+    padding-left: 100px;
+    font-weight: 100;
+
+}
+.header__link4 {
+    display:inline-block;
+    text-decoration:none;
+    color: rgb(241, 240, 240);
+    padding-left: 293px;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+.header__link5 {
+    display:inline-block;
+    color: rgb(241, 240, 240);
+    padding-left:1235px;
+    font-size: 15px;
+    font-weight: 100;
+    margin: 0;
+
+}
+.header__link6 {
+    display:inline-block;
+    color: rgb(241, 240, 240);
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 0px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+
+}
+.header{
+    display: inline-block;
+    height: 252px;
+    width: 1440px;
+    background-image: url(./Group.png),linear-gradient(to top, rgba(0, 0, 0, 0.605) , rgba(0, 0, 0, 0.612)), url(./stephen-leonardi-Al9Cl-b7EFU-unsplash\ 1.png);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: 50px 30px, 0, 0;
+    background-size:auto, auto, cover;
+}
+.header__pic {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 145px;
+}
+footer {
+    display: inline-flex;
+    width: 1180px;
+    height: 300px;
+    font-family: Montserrat; 
+    background-color: #1f2021;
+    margin: 130px;
+    margin-top: 50px;
+}
+.footer__text {
+    color: white;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 80px;
+    padding-top: 10px;
+    width: 400px;
+    
+}
+.footer__text1 {
+    font-size: 28px;
+    color: #fff;
+    width: 400px;
+    padding-left: 80px;
+ 
+}
+[type=email]{
+    font-size: 14px;
+    width: 300px;
+    height: 65px;
+    border-radius: 20px;
+    display: inline-block;
+    padding-left: 30px;
+    margin-left: 50px;
+    margin-top: 60px; 
+    
+}
+.footer__click {
+    font-size: 14px;
+    display: inline-block;
+    width: 250px ;
+    height: 71px;
+    margin-left: 10px;
+    border-radius: 20px;
+    background-color: #6ebbd3;
+    color: white;
+    margin-top: 60px;
+    
+}
+label{
+    display: inline-block;  
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.article {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-column-gap: 10px;
+    grid-template-rows: 600px 600px;
+    grid-row-gap: 30px;
+}
+.article__box {
+   background-color: #f3f3f3;
+    width: 380px;
+    height: 500px;
+    margin: 0px;
+    margin-left: 130px;
+}
+.article__box__item1 {
+    position: relative;
+    width: 380px;
+    height: 264px;
+    background: url(./jason-briscoe-UV81E0oXXWQ-unsplash\ 1\(2\).jpg);
+
+}
+.article__sale {
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    background: url(./-40%\(1\).png),linear-gradient(to top, #e52d2d, #e52d2d);
+    background-repeat: no-repeat, no-repeat;
+    background-position: 50%;
+    background-size:auto, cover;
+}
+.article__like {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    background: url(./Vector.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.article__box__item2 {
+    width: 380px;
+    height: 200px;
+}
+.article__box__item2_1 {
+    display: flex;
+}
+.article__box__item3 {
+    width: 380px;
+    height: 70px;
+    border: none;
+    background-color: #fff;
+}
+.article__box__click {
+    width: 380px;
+    display: inline-block;
+    height: 70px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0 0 20px 20px;
+    background-color: #6ebbd3;   
+}
+.article__box__item2 h2 {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.article__box__item2 p {
+    display:inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+.article__box__item2_2 {
+    width: 180px;
+}
+.article__box__item2_3 {
+
+}
+.article__box__item2 div.article__box__item2_2::before {
+    content: '';
+    padding-bottom: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    width: 6px;
+    height: 25px;
+    background-color: #6ebbd3;
+
+}
+.article__price {
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: Montserrat;
+}
+p, h2 {font-family: Montserrat;}
+
+
+
+
+
+
+
+
+
+
+.article__box__leo1 {
+    position: relative;
+    width: 380px;
+    height: 264px;
+    background: url(./jason-briscoe-UV81E0oXXWQ-unsplash\ 1\(3\).jpg);
+}
+.article__like__leo {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    background: url(./Vector.svg);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.article__box__leo2 {
+    width: 380px;
+    height: 200px;
+}
+.article__box__leo2_1 {
+    display: flex;
+}
+.article__box__leo3 {
+    width: 380px;
+    height: 70px;
+    background-color: #fff;
+}
+.article__box__leo__click {
+    width: 380px;
+    box-shadow: none;
+    border: none;
+    height: 70px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0 0 20px 20px;
+    background-color: #1f2021;
+}
+.article__box__leo2 h2 {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.article__box__leo2 p {
+    display:inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+.article__box__leo2_2 {
+    width: 180px;
+}
+.article__box__item2_3 {
+
+}
+.article__box__leo2 div.article__box__leo2_2::before {
+    content: '';
+    padding-bottom: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    width: 6px;
+    height: 25px;
+    background-color: #6ebbd3;
+
+}
+.article__price {
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: Montserrat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.article__box__meow1 {
+    position: relative;
+    width: 380px;
+    height: 264px;
+    background: url(./jason-briscoe-UV81E0oXXWQ-unsplash\ 1\(7\).jpg);
+  
+
+}
+.article__like__meow {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    background: url(./Vector.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+}
+.article__box__meow2 {
+    width: 380px;
+    height: 200px;
+}
+.article__box__meow2_1 {
+    display: flex;
+}
+.article__box__meow3 {
+    width: 380px;
+    height: 70px;
+    background-color: #fff;
+}
+.article__box__meow__click {
+    width: 380px;
+    box-shadow: none;
+    border: none;
+    height: 70px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0 0 20px 20px;
+    background-color: #6ebbd3;
+}
+.article__box__meow2 h2 {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.article__box__meow2 p {
+    display:inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+.article__box__meow2_2 {
+    width: 180px;
+}
+.article__box__meow2_3 {
+
+}
+.article__box__meow2 div.article__box__meow2_2::before {
+    content: '';
+    padding-bottom: 10px;
+    margin-left: 30px;
+    display: inline-block;
+    width: 6px;
+    height: 25px;
+    background-color: #6ebbd3;
+
+}
+.article__price {
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: Montserrat;
+}
+.section__next {
+    width: 380px;
+    height: 65px;
+    background:#e5e5e5;
+    border-radius: 20px;
+    border: 1px solid #bab7b7;
+    font-size: 14px;
+    font-family: Montserrat;
+    margin-left: 550px;
+    margin-top: 0px;
+}
+.section__begin {
+    width: 60px;
+    height: 60px;
+    border: none;
+    color: #fff;
+    background: url(./Vector\(2\).png), linear-gradient(to top, #6ebbd3 , #6ebbd3);
+    background-repeat: no-repeat, no-repeat;
+    background-position: 50% 50%;
+    margin-left: 310px;
+    margin-top: 0;
+}
+.article__form p {
+    margin-top: 40px ;
+    margin-left: 130px;
+    font-family:  Montserrat;
+    font-weight: 700;
+    font-size: 18px;
+    display:inline-block;
+}
+select {
+    display: inline-block;
+    border: none;
+    margin-left: 40px;
+    font-family:  Montserrat;
+    font-size: 18px;
+
+}
+option {
+display: inline-block;
+
+}
